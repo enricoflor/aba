@@ -1,0 +1,7 @@
+#+Title: aba.py: an OT grammar for morphological exponence
+#+Author: Enrico Flor
+
+This is a simple [[https://roa.rutgers.edu/files/537-0802/537-0802-PRINCE-0-0.PDF][OT]] grammar that I wrote to help a friend write [[https://roa.rutgers.edu/files/537-0802/537-0802-PRINCE-0-0.PDF][his
+dissertation]] (avoiding having to do a lot of error-prone calculation
+by hand).  The code itself is pretty simple, and chapter 4 of that
+dissertation explains the task to be carried out.
